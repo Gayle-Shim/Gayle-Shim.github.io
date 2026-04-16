@@ -9,7 +9,7 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Gayle Shim
-description: "Hi, I'm Gayle, and I'm an aspiring Data Analyst with a background in research focused on social impact and real-world decision-making.  My portfolio showcases projects where I apply data analysis to practical problems, with an emphasis on generating meaningful, actionable insights.
+description: "Hi, I'm Gayle, and I'm an aspiring Data Analyst with a background in research focused on social impact and real-world decision-making. My portfolio showcases projects where I apply data analysis to practical problems, with an emphasis on generating meaningful, actionable insights."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
